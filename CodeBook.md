@@ -7,12 +7,12 @@ https://github.com/Rcrd0/get_n_clean_data/blob/master/README.md
 Contains one row per observation with the following fields:
 * Subject: identifies the subject who performed the activity for each window sample. Its range is from 1 to 30
 * Activity:  
-    1 WALKING
-    2 WALKING_UPSTAIRS
-    3 WALKING_DOWNSTAIRS
-    4 SITTING
-    5 STANDING
-    6 LAYING
+  1. WALKING
+  2. WALKING_UPSTAIRS
+  3. WALKING_DOWNSTAIRS
+  4. SITTING
+  5. STANDING
+  6. LAYING
 * NAME_STAT_[-XYZ]: 79 fields containing the mean and standard deviation of the signals used to estimate the Activity
   NAME can be one of the following:
         tBodyAcc-XYZ
