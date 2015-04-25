@@ -60,9 +60,3 @@ To combine the information
 * then the function summarise_each() is used to get the mean of each column
 * the final result is stored into a file using write.table
 
-
-* the names of 
-* this vector is used to map each integer to its activity name, 
-
-
-* he step 1 uses unz to unzip the downloaded file
