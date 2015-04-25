@@ -5,8 +5,8 @@ https://github.com/Rcrd0/get_n_clean_data/blob/master/README.md
 
 # Dataset DS1
 Contains one row per observation with the following fields:
-* Subject: identifies the subject who performed the activity for each window sample. Its range is from 1 to 30
-* Activity:  
+1. Subject: identifies the subject who performed the activity for each window sample. Its range is from 1 to 30
+2. Activity:  
   1. WALKING
   2. WALKING_UPSTAIRS
   3. WALKING_DOWNSTAIRS
